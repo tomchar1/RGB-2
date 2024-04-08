@@ -1,0 +1,90 @@
+html {
+  background-image: url(img/rainbowBG.jpg);
+  background-size: cover;
+}
+body {
+  background-color: #cccccc;
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 700px;
+  margin: 25px auto;
+  background-color: rgb(255, 255, 255);
+  padding: 25px 0px;
+  border-radius: 25px;
+  margin-top: 80px;
+  border: 3px solid gray;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p:hover {
+  background-color: yellow;
+}
+
+hr {
+  width: 500px;
+}
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 42px;
+  letter-spacing: 2px;
+}
+
+.rgb-code {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+input {
+  width: 60px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+#display {
+  width: 400px;
+  height: 200px;
+  background: rgb(255, 255, 0);
+  margin: auto;
+}
+button {
+  background: gray;
+  color: white;
+  border-radius: 5px;
+  padding: 2px 10px;
+  cursor: pointer;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+#redIN {
+  background: red;
+  color: white;
+}
+#greenIN {
+  background: green;
+  color: white;
+}
+#blueIN {
+  background: blue;
+  color: white;
+}
+
+#black {
+  background: black;
+  margin-right: 50px;
+}
+#white {
+  background: white;
+  text-decoration-color: black;
+  color: black;
+}
+#prev1 {
+  background-color: gray;
+}
+#prev2 {
+  background-color: gray;
+}
